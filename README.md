@@ -4,4 +4,15 @@ The algorithm to decide the suitable lender is : out of the List of lenders, put
 To run the code, compile and execute the code on a suitable platform , and input the name and money required. The details of the most suitable lender will be displayed.For CMD, type 'python file_name.py'
 
 
+The Loaning system implemented is centralized, as the 'bank' acts as the exchange. The bank has the data of all lenders, and it is the bank which has decided the algorithm for loaning system. All transactions are intermediated by the bank, hence it is a centralized system.
+
+
+Demerits of a centralized system :
+ You don’t own a private key that gives you access to your wallet. 
+ 
+ Furthermore, the exchange determines which coins they list for trading or how much fees you have to pay to trade using their exchange.
+
+ You don’t truly own your cryptocurrencies when trading via a centralized exchange.
+ 
+ Moreover, you are subject to the rules a centralized exchange imposes on you.
 
